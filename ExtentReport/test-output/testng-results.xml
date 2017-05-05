@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51247" started-at="2017-05-05T15:21:04Z" finished-at="2017-05-05T15:21:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51247" started-at="2017-05-05T15:21:04Z" finished-at="2017-05-05T15:21:55Z">
+      <class name="Selenium.ExtentReport.BrowseProductsAndPurchase">
+        <test-method status="PASS" signature="verifyPageLoadFromTitle()[pri:1, instance:Selenium.ExtentReport.BrowseProductsAndPurchase@b59d31]" name="verifyPageLoadFromTitle" duration-ms="12910" started-at="2017-05-05T16:21:04Z" finished-at="2017-05-05T16:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageLoadFromTitle -->
+        <test-method status="PASS" signature="selectProductPage()[pri:2, instance:Selenium.ExtentReport.BrowseProductsAndPurchase@b59d31]" name="selectProductPage" duration-ms="23930" started-at="2017-05-05T16:21:17Z" finished-at="2017-05-05T16:21:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProductPage -->
+        <test-method status="PASS" signature="addProductToBasket()[pri:3, instance:Selenium.ExtentReport.BrowseProductsAndPurchase@b59d31]" name="addProductToBasket" duration-ms="1863" started-at="2017-05-05T16:21:41Z" finished-at="2017-05-05T16:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToBasket -->
+        <test-method status="PASS" signature="proceedToCheckout()[pri:3, instance:Selenium.ExtentReport.BrowseProductsAndPurchase@b59d31]" name="proceedToCheckout" duration-ms="1953" started-at="2017-05-05T16:21:42Z" finished-at="2017-05-05T16:21:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedToCheckout -->
+        <test-method status="PASS" signature="checkout()[pri:4, instance:Selenium.ExtentReport.BrowseProductsAndPurchase@b59d31]" name="checkout" duration-ms="10532" started-at="2017-05-05T16:21:44Z" finished-at="2017-05-05T16:21:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+      </class> <!-- Selenium.ExtentReport.BrowseProductsAndPurchase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
